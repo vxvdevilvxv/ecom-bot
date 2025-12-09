@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Окружение (если есть)
+.env
+.env.local
+.env.example
+
+# Дополнительно для Python
+*.pyc
+*.pyo
+*.pyd
+.Python
