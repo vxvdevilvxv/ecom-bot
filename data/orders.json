@@ -1,5 +1,1 @@
-{
-  "12345": {"status": "in_transit", "eta_days": 2, "carrier": "ShoplyExpress"},
-  "98765": {"status": "delivered", "delivered_at": "2025-08-10"},
-  "55555": {"status": "processing", "note": "РћР¶РёРґР°РµС‚ РєРѕРјРїР»РµРєС‚Р°С†РёРё РЅР° СЃРєР»Р°РґРµ"}
-}
+{"12345": {"status": "in_transit", "eta_days": 2, "carrier": "ShoplyExpress"}, "98765": {"status": "delivered", "delivered_at": "2025-08-10"}, "55555": {"status": "processing", "note": "Ожидает комплектации на складе"}}

@@ -10,7 +10,7 @@ __pycache__/
 # Окружение (если есть)
 .env
 .env.local
-.env.example
+.env
 
 # Дополнительно для Python
 *.pyc
