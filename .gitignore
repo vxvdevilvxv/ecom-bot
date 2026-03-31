@@ -17,3 +17,4 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
+logs/session_user_123.log
